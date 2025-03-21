@@ -1,0 +1,34 @@
+Prompt for PDF to Word Conversion:
+"Create a fully functional PDF to Word conversion tool in HTML with dynamic functionality. The tool should allow users to upload a PDF file,
+convert it into an editable Word document while maintaining the original layout, fonts, images, and tables. The tool should support drag-and-drop
+file uploads and provide the user with options to adjust the conversion settings (such as text extraction quality). Additionally, ensure the website is responsive,
+user-friendly, and SEO-optimized for better visibility. Include designated areas for advertisements and integrate Google AdSense ad code, enabling the
+easy insertion of the AdSense Ad Unit ID for monetization."
+
+
+Prompt for Image Resizer Tool:
+"Develop a fully responsive image resizer tool in HTML with dynamic functionality. The tool should allow users to upload images and select custom dimensions
+(width and height) or resize based on a percentage. Ensure the images are resized without losing quality, and provide an option to download the resized images.
+Additionally, include features to crop and rotate images before resizing. Ensure the website is SEO-optimized for better visibility and performance. Include designated spaces for advertisements 
+and integrate Google AdSense ad code, enabling easy insertion of the AdSense Ad Unit ID for monetization."
+
+
+Prompt for XLS Tool:
+"Develop a fully responsive Excel file converter tool in HTML with dynamic functionality. The tool should allow users to upload an XLS or XLSX file and convert 
+it into a variety of formats, including CSV, PDF, and Word. The tool should allow users to select specific sheets or ranges to convert, and ensure the content, formatting,
+and formulas are properly preserved during the conversion. Additionally, ensure the website is SEO-optimized for better visibility and performance. Include designated spaces for advertisements
+and integrate Google AdSense ad code, allowing easy insertion of the AdSense Ad Unit ID for monetization."
+
+
+Prompt for SVG Tool:
+"Develop a fully responsive SVG optimization and editing tool in HTML with dynamic functionality. The tool should allow users to upload SVG files, edit them
+(resize, change colors, remove unnecessary code), and optimize them for better performance. It should also provide an option for users to select the level of optimization
+for reducing file size while preserving image quality. Additionally, ensure the website is SEO-optimized for better visibility and performance. Include designated spaces for advertisements and integrate Google 
+AdSense ad code, allowing easy insertion of the AdSense Ad Unit ID for monetization."
+
+
+Prompt for PHP Tool:
+"Develop a fully responsive PHP-based tool that allows users to upload and process files dynamically. The tool should support various functions, such as data validation, 
+file uploads (images, documents), and file processing (compression, conversion, resizing). Ensure users can select specific settings for processing, such as compression levels
+or format conversion options. The website should be optimized for SEO to enhance visibility and improve performance. Include designated spaces for advertisements and integrate 
+Google AdSense ad code, enabling easy insertion of the AdSense Ad Unit ID for monetization."
